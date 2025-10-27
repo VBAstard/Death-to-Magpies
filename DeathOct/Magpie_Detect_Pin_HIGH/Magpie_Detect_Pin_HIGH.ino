@@ -1,4 +1,4 @@
-/* Edge Impulse Arduino examples
+/* Edge Impulse Arduino examples test
  * Copyright (c) 2022 EdgeImpulse Inc.
  * MIT License...
  */
