@@ -95,7 +95,7 @@ void setup() {
     digitalWrite(12, LOW);
 
     Serial.begin(115200);
-    while (!Serial);
+    //while (!Serial);
     Serial.println("Edge Impulse Inferencing Demo");
     if (ei_camera_init() == false) {
         ei_printf("Failed to initialize Camera!\r\n");
